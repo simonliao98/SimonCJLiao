@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SimonCJLiao
-- 👀 I’m interested in statistics, machine learning...
-- 🌱 I’m currently learning applied statistics in social impact
-- 💞️ I’m looking to collaborate on any data analytic project
+- 👀 I’m graduate assistant in front-end dashboard development at Easyeyes lab in NYU
+- 🌱 I’m proficient in programming in python, R, with strong knowledge in machine learning and statistical testing
+- 💞️ I’m open with data analyst positions in nyc
 - 📫 How to reach me cl6399@nyu.edu
 
 <!---
